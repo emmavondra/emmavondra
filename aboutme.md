@@ -1,4 +1,4 @@
-# Your Full Name
+# Emma Vondra
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -6,8 +6,7 @@ Welcome to my personal website! Here you'll find information about my background
 
 ## About Me
 
-I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+I am currently a full-time student at the University of Nebraska-Lincoln,  studying to recieve a Bachelor of Science in Civil Engineering. I believe in the importance of society, people, and making advances in the world in order to make life easier for the future generations.  In addition to making improvements, I would like to see an advancement of women in engineering. Through my courses that I am enrolled in, I plan to use them to advance my knowledge in both the classroom and during my internship with Kiewit during the upcoming summer. I am also involved in ASCE as a Concrete Canoe Co-captian, SALT and other clubs to further my education aligning with engineering and leadership opportunities.
 
 ---
 
@@ -39,9 +38,9 @@ My interests include *data analytics*, and `Python programming`.
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/emma-vondra-a4822126a/)
 - [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+- [Email Me](evondra3@huskers.unl.edu)
 
 ---
 
