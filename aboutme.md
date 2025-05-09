@@ -1,5 +1,6 @@
-![HEADSHOT_23 PKS Vondra_Emma 5003 RT](https://github.com/user-attachments/assets/d83459a2-0590-4e0a-984e-b0ade26f861a)
-# Emma Vondra
+
+# <img src="https://github.com/user-attachments/assets/d83459a2-0590-4e0a-984e-b0ade26f861a" alt="Emma Vondra headshot" width="10%" style="border-radius: 75%;"> | Emma Vondra 
+
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
