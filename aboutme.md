@@ -29,14 +29,14 @@ I am currently a full-time student at the University of Nebraska-Lincoln,  study
 ![Screenshot of project](images/project1.png)  
 *Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
 
-[View the code](https://github.com/yourusername/project1)
+[View the code](Project1)
 
 ---
 
 ### Project 2: Another Project
 ![Placeholder image](images/project2.jpg)  
-*A short description of this project. What problem did it solve? What did you learn?*
-
+*A short description of this project. What problem did it solve? What did you learn?
+[View the code](Project2)*
 ---
 
 ## Connect With Me
